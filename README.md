@@ -259,5 +259,3 @@ If you find this project helpful, consider buying me a coffee!
 ***
 
 **Made with ❤️ and 🦀 Rust**
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/84013840/bae981b4-726e-4396-b83b-2acad777fc16/data.md)
