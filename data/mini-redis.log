@@ -1,0 +1,7 @@
+{"Set":{"key":"Key","value":"Hello world"}}
+{"Del":{"key":"Key"}}
+{"Set":{"key":"key","value":"Hello world!"}}
+{"Del":{"key":"key"}}
+{"Set":{"key":"Key","value":"Hello world!"}}
+{"Set":{"key":"key","value":"hello world!"}}
+{"Set":{"key":"Key","value":"hello"}}
